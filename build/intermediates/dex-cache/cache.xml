@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/osabe/work/IDEA-workspace/AddressBookORMlite/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/osabe/work/IDEA-workspace/AddressBookORMlite/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-976ed999b4a59ff5a2b714fbbae9bcb911647bc2.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/AddressBookORMlite/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/osabe/work/IDEA-workspace/AddressBookORMlite/app/build/intermediates/pre-dexed/debug/classes-00610496ff02db951f063a2cf507828bccf6a0eb.jar" />
+    </item>
+    <item
+        jar="/home/osabe/work/IDEA-workspace/AddressBookORMlite/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/osabe/work/IDEA-workspace/AddressBookORMlite/app/build/intermediates/pre-dexed/debug/classes-16a2e2f24e9d5233760a52289e79a060ae751b81.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/osabe/work/IDEA-workspace/AddressBookORMlite/app/build/intermediates/pre-dexed/debug/ormlite-core-4.48-adceb792d5d0d7fe8806f5a89ea9c7feadd72dae.jar" />
+    </item>
+    <item
+        jar="/home/osabe/src/android-sdk/android-sdk_r24.0.2-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/osabe/work/IDEA-workspace/AddressBookORMlite/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-cb488908e96b7540884a93b84e31512abefe8131.jar" />
+    </item>
+    <item
+        jar="/home/osabe/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/osabe/work/IDEA-workspace/AddressBookORMlite/app/build/intermediates/pre-dexed/debug/ormlite-android-4.48-bfc77136b468fa7331e3587f8147c741816074e6.jar" />
+    </item>
+
+</items>
