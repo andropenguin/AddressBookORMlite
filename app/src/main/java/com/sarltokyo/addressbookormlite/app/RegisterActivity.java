@@ -112,6 +112,7 @@ public class RegisterActivity extends AppCompatActivity
             address.setPrefecture(prefecture);
             address.setCity(city);
             address.setOther(other);
+            person.setAddress(address);
             mHelper.getAddressDao().update(address);
             mHelper.getPersonDao().update(person);
             finish();
