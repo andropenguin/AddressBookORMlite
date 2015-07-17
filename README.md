@@ -1,7 +1,7 @@
 # A sample of an address book application using ORMLite
 
 # What is this?
-This uses a library of j256/ormlite-core ( https://github.com/j256/ormlite-core ) to save address data to database.
+This uses libraries of j256/ormlite-core ( https://github.com/j256/ormlite-core ) and j256/ormlite-android ( https://github.com/j256/ormlite-android ) to save address data to database.
 
 # License
 Copyright 2015 andropenguin@gmail.com (twitter id: @penguindaa )
